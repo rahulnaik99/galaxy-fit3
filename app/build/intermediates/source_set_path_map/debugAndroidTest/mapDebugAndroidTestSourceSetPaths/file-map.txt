@@ -1,0 +1,4 @@
+com.example.bankband.test.app-androidTest-0 /Users/rahul/Downloads/BankBand/app/build/generated/res/resValues/androidTest/debug
+com.example.bankband.test.app-mergeDebugAndroidTestResources-1 /Users/rahul/Downloads/BankBand/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.bankband.test.app-mergeDebugAndroidTestResources-2 /Users/rahul/Downloads/BankBand/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.bankband.test.app-debugAndroidTest-3 /Users/rahul/Downloads/BankBand/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

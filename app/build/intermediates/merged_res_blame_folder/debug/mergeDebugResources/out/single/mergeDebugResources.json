@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.bankband.app-debug-11:/drawable_ic_kuber_fg.xml.flat",
+        "source": "com.example.bankband.app-main-13:/drawable/ic_kuber_fg.xml"
+    },
+    {
+        "merged": "com.example.bankband.app-debug-11:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.bankband.app-main-13:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.bankband.app-debug-11:/drawable_ic_kuber_mono.xml.flat",
+        "source": "com.example.bankband.app-main-13:/drawable/ic_kuber_mono.xml"
+    },
+    {
+        "merged": "com.example.bankband.app-debug-11:/xml_kuber_widget_info.xml.flat",
+        "source": "com.example.bankband.app-main-13:/xml/kuber_widget_info.xml"
+    },
+    {
+        "merged": "com.example.bankband.app-debug-11:/layout_widget_kuber.xml.flat",
+        "source": "com.example.bankband.app-main-13:/layout/widget_kuber.xml"
+    },
+    {
+        "merged": "com.example.bankband.app-debug-11:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.bankband.app-main-13:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.bankband.app-debug-11:/drawable_ic_stat_kuber.xml.flat",
+        "source": "com.example.bankband.app-main-13:/drawable/ic_stat_kuber.xml"
+    }
+]
